@@ -1,0 +1,10 @@
+together
+dotenv
+uvicorn
+fastapi
+fastapi-cli
+streamlit
+
+
+
+
